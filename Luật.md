@@ -16,8 +16,8 @@
 | -không gây war                                                                                                    |
 |                                                                                                                   |                                                                                               |
 # Nếu như bạn phạm vi các luật trên, bạn sẽ bị các mức độ sau đây 
-| lần 1: nhắc nhở            |
-|----------------------------|
-| Lần 2: ra đảo 1 ngày       |
-| Lần 3: ra đảo 2 ngày       |
-| Lần 4: mời bạn rời khỏi gr |
+| lần 1: nhắc nhở                                                          |
+|--------------------------------------------------------------------------|
+| Lần 2: ra đảo 1 ngày ![testing](Images/t%E1%BA%A3i%20xu%E1%BB%91ng.jpeg) |
+| Lần 3: ra đảo 2 ngày ![testing](https://i.imgur.com/DFpeu.jpg)           |
+| Lần 4: mời bạn rời khỏi gr                                               |
