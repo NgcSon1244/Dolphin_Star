@@ -15,3 +15,9 @@
 | - Boss/Pboss sẽ đưa bd cho cậu để cậu tự set ạ                                                                    |
 | -không gây war                                                                                                    |
 |                                                                                                                   |                                                                                               |
+# Nếu như bạn phạm vi các luật trên, bạn sẽ bị các mức độ sau đây 
+| lần 1: nhắc nhở            |
+|----------------------------|
+| Lần 2: ra đảo 1 ngày       |
+| Lần 3: ra đảo 2 ngày       |
+| Lần 4: mời bạn rời khỏi gr |
