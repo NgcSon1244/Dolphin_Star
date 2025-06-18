@@ -1,4 +1,4 @@
-| -Không gây war với người khác                                                                                     |
+| !! LUẬT CỦA GR !!                                                                                                 |
 |-------------------------------------------------------------------------------------------------------------------|
 | -Ko toxic                                                                                                         |
 | -Không joke quá lố                                                                                                |
@@ -12,5 +12,5 @@
 | - Được phát cơm nhưng không đc làm tới mức ngkhác khó chịu                                                        |
 | - Nếu vô grp, phiền cậu hãy tự giới thiệu bản thân : tên, bd, tuổi, tranh eff, art (không cần gth nếu cậu ngại ạ) |
 | - Boss/Pboss sẽ đưa bd cho cậu để cậu tự set ạ                                                                    |
-|                                                                                                                   |
-|                                                                                                                   |
+| -không gây war                                                                                                    |
+|                                                                                                                   |                                                                                               |
