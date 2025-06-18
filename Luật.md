@@ -14,7 +14,7 @@
 | - Nếu vô grp, phiền cậu hãy tự giới thiệu bản thân : tên, bd, tuổi, tranh eff, art (không cần gth nếu cậu ngại ạ) |
 | - Boss/Pboss sẽ đưa bd cho cậu để cậu tự set ạ                                                                    |
 | -không gây war                                                                                                    |
-|                                                                                                                   |                                                                                               |
+| -Kh lơ tv trong grp                                                                                                      |                                                                                               |
 # Nếu như bạn phạm vi các luật trên, bạn sẽ bị các mức độ sau đây 
 | lần 1: nhắc nhở                                                          |
 |--------------------------------------------------------------------------|
