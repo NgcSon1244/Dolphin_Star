@@ -16,8 +16,8 @@
 | -không gây war                                                                                                    |
 | -Kh lơ tv trong grp                                                                                                      |                                                                                               |
 # Nếu như bạn phạm vi các luật trên, bạn sẽ bị các mức độ sau đây 
-| lần 1: nhắc nhở                                                          |
+| lần 1: nhắc nhở ![hài vl](Images/received_725150183366812.jpeg)                                                |
 |--------------------------------------------------------------------------|
 | Lần 2: ra đảo 1 ngày ![testing](Images/t%E1%BA%A3i%20xu%E1%BB%91ng.jpeg) |
 | Lần 3: ra đảo 2 ngày ![testing](https://i.imgur.com/DFpeu.jpg)           |
-| Lần 4: mời bạn rời khỏi gr                                               |
+| Lần 4: mời bạn rời khỏi gr                                           |
