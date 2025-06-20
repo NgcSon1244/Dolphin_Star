@@ -3,7 +3,8 @@
 |-------------------------------------------------------------------------------------------------------------------|
 | -Không toxic
 | -Nghiên cấm gửi ảnh 🔞 vào nhóm
-| -Không joke quá lố                                                                                                |
+| -Không joke quá lố 
+| -hạn chế gửi ảnh meme
 | - Khi đang bàn luận về 1 vấn đề nào đó, phiền cậu hạn chế nói ra nhưng câu joke, hài                              |
 | - Nếu có drama phiền cậu báo ngay cho boss/pboss                                                                  |
 | -  Được phép nói tục (miễn là kh quá đà)                                                                               |
