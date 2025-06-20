@@ -1,11 +1,12 @@
 ![testing](Images/Messenger_creation_1377172403569590.jpeg)
 | !! LUẬT CỦA GR !!                                                                                                 |
 |-------------------------------------------------------------------------------------------------------------------|
-| -Ko toxic                                                                                                         |
+| -Không toxic
+| -Nghiên cấm gửi ảnh 🔞 vào nhóm
 | -Không joke quá lố                                                                                                |
 | - Khi đang bàn luận về 1 vấn đề nào đó, phiền cậu hạn chế nói ra nhưng câu joke, hài                              |
 | - Nếu có drama phiền cậu báo ngay cho boss/pboss                                                                  |
-| -  Được nói tục (miễn là kh quá đà)                                                                               |
+| -  Được phép nói tục (miễn là kh quá đà)                                                                               |
 | - Không tự ý đổi chủ đề chat, bd của TV khác                                                                      |
 | - Không kì thị LGBT, Ng da màu, vùng miền, lính mới                                                               |
 | - Không out chùa                                                                                                  |
