@@ -26,3 +26,9 @@
 | Lần 2: ra đảo 1 ngày ![testing](Images/t%E1%BA%A3i%20xu%E1%BB%91ng.jpeg) |
 | Lần 3: ra đảo 2 ngày ![testing](https://i.imgur.com/DFpeu.jpg)           |
 | Lần 4: mời bạn rời khỏi gr                                           |
+
+# Tất cả các luật,hashtag gr,bd gr đc làm bởi 
+
+|⭐꧁_Tongtai Yuri_꧂⭐Boss(người làm luật,hashtag gr và bd gr)|
+|---------------------------------------------|
+|⭐꧁_(NgcSon_Modder)_꧂⭐ pboss(up luật,hashtag gr và bd gr)|
