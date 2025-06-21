@@ -18,6 +18,8 @@
 | -không gây war                                                                                                    |
 | -Kh lơ tv trong grp  
 
+# hashtag gr:#dolphin_star🐬✨
+
 # Nếu như bạn phạm vi các luật trên, bạn sẽ bị các mức độ sau đây 
 | lần 1: nhắc nhở ![hài vl](Images/received_725150183366812.jpeg)                                                |
 |--------------------------------------------------------------------------|
