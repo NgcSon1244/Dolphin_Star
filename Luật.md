@@ -29,6 +29,7 @@
 
 # Tất cả các luật,hashtag gr,bd gr đc làm bởi 
 
-|⭐꧁_Tongtai Yuri_꧂⭐Boss(người làm luật,hashtag gr và bd gr)|
+|⭐꧁_Tongtai Yuri_꧂⭐Boss(người làm luật,bd gr)|
 |---------------------------------------------|
 |⭐꧁_(NgcSon_Modder)_꧂⭐ pboss(up luật,hashtag gr và bd gr)|
+|✨꧁_Yoshi_꧂✨ «pboss»(hashtag gr)
