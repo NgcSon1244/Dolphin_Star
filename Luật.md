@@ -10,7 +10,7 @@
 | -  Được phép nói tục (miễn là kh quá đà)                                                                               |
 | - Không tự ý đổi chủ đề chat, bd của TV khác                                                                      |
 | - Không kì thị LGBT, Ng da màu, vùng miền, lính mới                                                               |
-| - Không out chùa                                                                                                  |
+| - Không out chùa(nếu out=PHỐT)                                                                                                    |
 | - Muốn rời grp thì phải báo cho Boss/Pboss kèm lý do                                                              |
 | - Được phát cơm nhưng không đc làm tới mức ngkhác khó chịu                                                        |
 | - Nếu vô grp, phiền cậu hãy tự giới thiệu bản thân : tên, bd, tuổi, tranh eff, art (không cần gth nếu cậu ngại ạ) |
